@@ -6,7 +6,7 @@ The oceanwave is an ergonomic unibody keyboard with 3x6 column staggered keys an
 1. Hotswap socket for MX and Low Profile Choc (v1)
 2. 8 RGB LED underglow, additional 1 facing up for Artisan. 
 3. 1 MX hotswap in the middle for Artisan. 
-4. 1 flat wheel encoderf
+4. 1 flat wheel encoder
 5. 1 EC11 rotary encoder
 6. 1 OLED
 7. Haptic BZZZ
