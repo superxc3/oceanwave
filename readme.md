@@ -32,6 +32,9 @@ IO can be expanded by modifying the usb c promicro, inspired from [GOLEM](https:
 | Oled 2E* | Flat wheel and knob, Oled | QMK/VIAL | Yes ||
 | Haptic 2E* | Flat wheel and knob, Haptic BZZZ | QMK/VIAL | Yes ||
 
+![image](https://user-images.githubusercontent.com/79617315/212670817-ea9316ae-cfbd-40df-919e-948b96ed8a82.png)
+Haptic Bzzz can always be added. Dang for the socketed haptic bzzz as well. 
+
 ## Build guide
 [Refer here](https://github.com/superxc3/oceanwave/blob/main/build%20guide.md).
 
