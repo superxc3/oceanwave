@@ -46,7 +46,8 @@ IO can be expanded by modifying the usb c promicro, inspired from [GOLEM](https:
 ## Keyboard Images
 ![image](https://user-images.githubusercontent.com/79617315/212666347-0b7923d4-43c4-4b4e-b0d7-5959e46c03e8.png)
 
-![image](https://user-images.githubusercontent.com/79617315/212666468-71aade9f-ab0f-4c56-8582-c045f202e675.png)
+![image](https://user-images.githubusercontent.com/79617315/212666580-54440dc1-3514-4363-8811-5bc37b416794.png)
+
 
 
 
