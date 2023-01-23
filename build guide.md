@@ -24,3 +24,28 @@ Below shows possible combination by jump wire certain spots for additional IOs.
 :warning: Below will lead to conflict if
 1. Join OLED or BZZZ and join split paste above the flat wheel
 2. Join both OLED and BZZZ
+
+## Default combination with 1 knob encoder and 1 OLED
+
+### Diodes
+There are two types of diodes for oceanwave. The top facing upwards is through-hole diode; while the bottom is using SMD diode. You have to solder both types of diodes. Follow the line indicated on the pcb. 
+
+|![image](https://user-images.githubusercontent.com/79617315/214054523-c6cf64dd-3f85-4b54-a2b8-75a484e4dd49.png)|
+|:--:|
+| Through-hole diode |
+
+|![image](https://user-images.githubusercontent.com/79617315/214053728-a9102f82-0c0d-49d0-a905-a2bf30ca870b.png)|
+|:--:|
+| SMD diode; refer to [DIODES](https://github.com/GEIGEIGEIST/KLOR/blob/main/docs/buildguide_3DP.md#diodes) for tips to solder SMD diode |
+
+### MCU - Microcontroller and Reset Button
+The build kit comes with socket for MCU. Solder the socket and reset button after diodes. Use tape to fix the socket and solder accordingly. Default comes with usb c promicro. 
+![image](https://user-images.githubusercontent.com/79617315/214054958-0d0b25cc-2442-4b1c-a961-293c1366ec11.png)
+
+
+|![image](https://user-images.githubusercontent.com/79617315/214055949-1f84d83d-9b0f-40dd-8ba9-c1bdcd36fd56.png)|
+|:--:|
+| Insert the 3 pieces of 4pins at each side, put the mcu on top. Press while solder four sides of MCU. |
+
+
+
