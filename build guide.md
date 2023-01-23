@@ -25,7 +25,7 @@ Below shows possible combination by jump wire certain spots for additional IOs.
 1. Join OLED or BZZZ and join split paste above the flat wheel
 2. Join both OLED and BZZZ
 
-## Default combination with 1 knob encoder and 1 OLED
+## Basic build guide
 
 ### Diodes
 There are two types of diodes for oceanwave. The top facing upwards is through-hole diode; while the bottom is using SMD diode. You have to solder both types of diodes. Follow the line indicated on the pcb. 
