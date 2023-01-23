@@ -50,5 +50,46 @@ The build kit comes with socket for MCU. Solder the socket and reset button afte
 |:--:|
 | Insert the 3 pieces of 4pins at each side, put the mcu on top. Press while solder four sides of MCU, make sure no gap in between the mcu and pins. Continue to solder with the rest.|
 
+### RGB Underglow
+Apply some solder on one of the pads. Place the LED with tweezer according to the silk screen. Reheat the solder and apply some pressure with tweezer to make sure the LED is fully seated. 
+
+|![image](https://user-images.githubusercontent.com/79617315/214058102-a35d036a-d7fc-4492-b760-87a044f79d1a.png)|
+|:--:|
+|Indicator silk screen. The orientation is very important. |
+
+### Switch Sockets
+Apply some solder on one of the pads, then place the switch socket and reheat the solder. While heating, press the socket with finger or tweezer. Make sure the socket is fully seated, lift your soldering iron but make sure your finger or tweezer is still pressing the socket for 1-2s. Check if the socket is aligned, then only solder the second pad. Build guide for socket and refer to [Switch Sockets](https://github.com/GEIGEIGEIST/KLOR/blob/main/docs/buildguide_3DP.md#switch-sockets).
+
+### Omit flat wheel as encoder
+If you only have one encoder and prefer ec11 knob rather than flat wheel, bridge the three jumpers near to L4 RGB underglow led, above flat wheel. 
+
+|![image](https://user-images.githubusercontent.com/79617315/214059815-b6b1aa79-4907-422d-89fb-a35bd70e7a51.png)|
+|:--:|
+| Join if omit flat wheel as the encoder|
+
+### EC11 knob encoder
+If you prefer to have ec11 knob encoder on top, bridge the three jumpers above the knob.
+
+:warning: The EC11 encoder allows Mill-Max 0305. However, it appears to be less stable if using Mill-Max
+|![image](https://user-images.githubusercontent.com/79617315/214060800-081b99d6-5b69-48da-a469-f84633591e43.png)|
+|:--:|
+| Join if choose knob as the encoder|
+![image](https://user-images.githubusercontent.com/79617315/214064745-931d2222-535f-4a99-8b28-a379e46c171c.png)
+Top: EC12 encoder with lower height, suitable for low profile choc; 
+Bottom: EC11 encoder suitable for mx choc, the height of EC11 knob is similar to the the height of MT3 keycaps.
+
+
+
+
+
+### OLED or haptic bzzz
+Choose only OLED or Haptic Bzzz. You are allowed to bridge one of them only because they shared the same pins.
+|![image](https://user-images.githubusercontent.com/79617315/214061223-f66d9b0a-8950-46b2-9f59-72110a27ecd7.png)|
+|:--:|
+| Join the left 4 jumpers if choose for OLED; join the right 4 jumpers if choose for haptic bzzz. Socket for OLED on top; socket for haptic at the bottom. The photo above shows example of haptic bzzz|
+|![image](https://user-images.githubusercontent.com/79617315/214062860-7d44f057-69a7-4f87-8322-fb1179fb2078.png)|
+| The pins are extracted to reduce the height for socketed haptic bzzz|
+|![image](https://user-images.githubusercontent.com/79617315/214063099-3aa0b4c5-c815-4199-a429-9d658f6fe985.png)|
+| Silk screen explains how you should orientate the haptic bzzz, eg. GND to GND|
 
 
