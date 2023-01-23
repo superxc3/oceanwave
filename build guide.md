@@ -40,12 +40,15 @@ There are two types of diodes for oceanwave. The top facing upwards is through-h
 
 ### MCU - Microcontroller and Reset Button
 The build kit comes with socket for MCU. Solder the socket and reset button after diodes. Use tape to fix the socket and solder accordingly. Default comes with usb c promicro. 
-![image](https://user-images.githubusercontent.com/79617315/214054958-0d0b25cc-2442-4b1c-a961-293c1366ec11.png)
+
+|![image](https://user-images.githubusercontent.com/79617315/214054958-0d0b25cc-2442-4b1c-a961-293c1366ec11.png)|
+|:--:|
+|MCU and reset button |
 
 
 |![image](https://user-images.githubusercontent.com/79617315/214055949-1f84d83d-9b0f-40dd-8ba9-c1bdcd36fd56.png)|
 |:--:|
-| Insert the 3 pieces of 4pins at each side, put the mcu on top. Press while solder four sides of MCU. |
+| Insert the 3 pieces of 4pins at each side, put the mcu on top. Press while solder four sides of MCU, make sure no gap in between the mcu and pins. Continue to solder with the rest.|
 
 
 
