@@ -45,6 +45,10 @@ Haptic Bzzz can always be added. Dang for the socketed haptic bzzz as well.
 1. EC11 is the typical 15mm rotary encoder used for most of the mx boards, the height is almost similar to mt3. 
 2. EC12 is a relatively lower height rotary encoder, used for choc board to achieve thin board thickness.  
 
+## OLED
+![oled](https://user-images.githubusercontent.com/79617315/214291597-a01286ed-3e66-45ec-ac6d-848ad7a26a43.jpg)
+
+
 ## Keyboard Images
 ![image](https://user-images.githubusercontent.com/79617315/212666347-0b7923d4-43c4-4b4e-b0d7-5959e46c03e8.png)
 
