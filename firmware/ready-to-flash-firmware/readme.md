@@ -1,6 +1,4 @@
 # Ready to flash firmware
-![image](https://user-images.githubusercontent.com/79617315/214289946-4f1bd015-2ece-493f-9825-e8dbd5bd52c2.png)
-
 
 ## Hex for caterina promicro
 Using QMK Toolbox and refer [Tutorial to flash hex file](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md)
