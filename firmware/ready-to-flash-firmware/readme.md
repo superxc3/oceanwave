@@ -24,7 +24,7 @@ Flash before soldering. Connect usb c to pc.
 
 
 ### Oled2e
-This version for OLED, without Haptic Bzzz, supports both knob and flat wheel encoders. Hex file download [here](). QMK VIAL firmware source code download [here](https://drive.google.com/drive/folders/1AIHQoCwNvRf_bx6QMLS1yq8Js87rkkeG?usp=share_link). 
+This version for OLED, without Haptic Bzzz, supports both knob and flat wheel encoders. Hex file download [here](https://drive.google.com/file/d/1fGqhYeTPkiZEdB_yfewdT_9bDBihB43H/view?usp=share_link). QMK VIAL firmware source code download [here](https://drive.google.com/drive/folders/1AIHQoCwNvRf_bx6QMLS1yq8Js87rkkeG?usp=share_link). 
 
 Copy XCMKB and compile using `qmk compile -kb xcmkb/oceanwave -km vialoled2e`. Default comes with OLED indicator for layer, numlock, capslock, scrollock. Change the build option in oled.c for QMK logo. Animated oceanwave logo needs debug. 
 
