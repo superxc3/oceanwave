@@ -3,7 +3,7 @@ Pre-assembled board is pre-flashed. Build kit please refer to [Ready-to-flash](h
 
 For pre-assembled and pre-flashed board, please download [VIAL](https://get.vial.today/download/) software to remap key. The software supports windows, mac, and linux. Basic layering and tapping guide refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/vial-guide.md#basic-tapping-and-layering).
 
-|![image](https://user-images.githubusercontent.com/79617315/214221213-bc010371-d92d-4215-80ae-846ae0f051a7.png)|
+|![image](https://user-images.githubusercontent.com/79617315/214291962-a3cc96fc-744b-45f9-96bc-215382877dad.png)|
 |:--:|
 |Vial software interface|
 
