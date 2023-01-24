@@ -39,8 +39,7 @@ Haptic Bzzz can always be added. Dang for the socketed haptic bzzz as well.
 [Refer here](https://github.com/superxc3/oceanwave/blob/main/build%20guide.md).
 
 ## Firmware
-- QMK (link to be updated)
-- ZMK
+[Refer here](https://github.com/superxc3/oceanwave/tree/main/firmware)
 
 ## EC11/EC12 Encoders
 1. EC11 is the typical 15mm rotary encoder used for most of the mx boards, the height is almost similar to mt3. 
