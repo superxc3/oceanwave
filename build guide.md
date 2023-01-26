@@ -92,4 +92,19 @@ Choose only OLED or Haptic Bzzz. You are allowed to bridge one of them only beca
 |![image](https://user-images.githubusercontent.com/79617315/214063099-3aa0b4c5-c815-4199-a429-9d658f6fe985.png)|
 | Silk screen explains how you should orientate the haptic bzzz, eg. GND to GND|
 
+### Assemble
+Sequence from bottom: 
+1. Longer m2^4 screw at the bottom of acrylic plate
+2. Acrylic bottom plate
+3. Brass standsoff
+4. Plastic standsoff
+5. PCB
+6. Shorter m2^3 screw on top of pcb
 
+|![assemble](https://user-images.githubusercontent.com/79617315/214769087-40d48abf-56b2-45cc-bac0-80bf655e25fc.jpg)|
+|:--:|
+| Screws and standsoff etc |
+|![lp as](https://user-images.githubusercontent.com/79617315/214769835-a1c2ea92-d0e8-4246-a181-40f64c57cee3.jpg)|
+| Low profile choc assemble without switch plate |
+|![mx assemble](https://user-images.githubusercontent.com/79617315/214770910-e75810b1-99d9-46f0-90db-68dec6dbb903.jpg)|
+| MX assemble with switch plate and oled instruction |
