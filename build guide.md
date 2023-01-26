@@ -104,7 +104,10 @@ Sequence from bottom:
 |![assemble](https://user-images.githubusercontent.com/79617315/214769087-40d48abf-56b2-45cc-bac0-80bf655e25fc.jpg)|
 |:--:|
 | Screws and standsoff etc |
-|![lp as](https://user-images.githubusercontent.com/79617315/214769835-a1c2ea92-d0e8-4246-a181-40f64c57cee3.jpg)|
+|![Assemble - lp](https://user-images.githubusercontent.com/79617315/214771222-83940b82-30c1-4011-8d79-c771522fe248.jpg)|
 | Low profile choc assemble without switch plate |
 |![mx assemble](https://user-images.githubusercontent.com/79617315/214770910-e75810b1-99d9-46f0-90db-68dec6dbb903.jpg)|
 | MX assemble with switch plate and oled instruction |
+
+
+
