@@ -59,4 +59,4 @@ Haptic Bzzz can always be added. Dang for the socketed haptic bzzz as well.
 
 
 ## Todo
-- 3D case 
+- QWIIC for Sparkfun rp2040 expansion
