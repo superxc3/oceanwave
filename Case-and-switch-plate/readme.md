@@ -1,10 +1,10 @@
 # Case and Switch Plate
 
 ## 3D case
-Pending for 3d prototype printing
 
 ![image](https://user-images.githubusercontent.com/79617315/214296324-b2e73aab-3d20-46b0-9d42-be0d88542163.png)
 
+![o](https://user-images.githubusercontent.com/79617315/216041153-a1cb46a8-0e1c-451e-be51-d81b3b3d24da.jpg)
 
 3D reduces the overall thickness by 1mm compared to acrylic bottom, gap between bottom case and pcb are 2mm for 3D and 3mm for acrylic bottom.
 - m2 x3mm screw at bottom
