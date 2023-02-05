@@ -51,7 +51,7 @@ The build kit comes with socket for MCU. Solder the socket and reset button afte
 | Insert the 3 pieces of 4pins at each side, put the mcu on top. Press while solder four sides of MCU, make sure no gap in between the mcu and pins. Continue to solder with the rest.|
 
 ### RGB Underglow
-Apply some solder on one of the pads. Place the LED with tweezer according to the silk screen. Reheat the solder and apply some pressure with tweezer to make sure the LED is fully seated. 
+Apply some solder on one of the pads. Place the LED with tweezer according to the silk screen. Reheat the solder and apply some pressure with tweezer to make sure the LED is fully seated. There is an LED facing up in the middle for artisan purpose. Recommended not installed for OLED user (the led shines the oled component); and not recommended if you are not planning to insert any switch, it glares. 
 
 |![image](https://user-images.githubusercontent.com/79617315/214058102-a35d036a-d7fc-4492-b760-87a044f79d1a.png)|
 |:--:|
