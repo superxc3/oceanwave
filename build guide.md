@@ -60,26 +60,31 @@ Apply some solder on one of the pads. Place the LED with tweezer according to th
 ### Switch Sockets
 Apply some solder on one of the pads, then place the switch socket and reheat the solder. While heating, press the socket with finger or tweezer. Make sure the socket is fully seated, lift your soldering iron but make sure your finger or tweezer is still pressing the socket for 1-2s. Check if the socket is aligned, then only solder the second pad. Build guide for socket and refer to [Switch Sockets](https://github.com/GEIGEIGEIST/KLOR/blob/main/docs/buildguide_3DP.md#switch-sockets).
 
-### Omit flat wheel as encoder
+### Encoders
+
+#### EC11 Knob only
 If you only have one encoder and prefer ec11 knob rather than flat wheel, bridge the three jumpers near to L4 RGB underglow led, above flat wheel. 
 
 |![image](https://user-images.githubusercontent.com/79617315/214059815-b6b1aa79-4907-422d-89fb-a35bd70e7a51.png)|
 |:--:|
 | Join if omit flat wheel as the encoder|
 
-### EC11 knob encoder
-If you prefer to have ec11 knob encoder on top, bridge the three jumpers above the knob.
 
-:warning: The EC11 encoder allows Mill-Max 0305. However, it appears to be less stable if using Mill-Max
+|![image](https://user-images.githubusercontent.com/79617315/214064745-931d2222-535f-4a99-8b28-a379e46c171c.png)|
+|:--:|
+|Top: EC12 encoder with lower height, suitable for low profile choc; |
+|Bottom: EC11 encoder suitable for mx choc, the height of EC11 knob is similar to the the height of MT3 keycaps.|
+
+  :warning: The EC11 encoder allows Mill-Max 0305. However, it appears to be less stable if using Mill-Max
+
+#### EC11 Knob and Flat Wheel
+If your configuration allows you to build two encoders (both flat wheel and ec11 knob), bridge the three jumpers above the knob.
+
+  :rotating_light: Do not bridge three jumpers above the knob to enable the knob, bridge only if you have two encoders.
+
 |![image](https://user-images.githubusercontent.com/79617315/214060800-081b99d6-5b69-48da-a469-f84633591e43.png)|
 |:--:|
-| Join if choose knob as the encoder|
-![image](https://user-images.githubusercontent.com/79617315/214064745-931d2222-535f-4a99-8b28-a379e46c171c.png)
-Top: EC12 encoder with lower height, suitable for low profile choc; 
-Bottom: EC11 encoder suitable for mx choc, the height of EC11 knob is similar to the the height of MT3 keycaps.
-
-
-
+| Join if your config allows for two encoders|
 
 
 ### OLED or haptic bzzz
@@ -109,5 +114,6 @@ Sequence from bottom:
 |![mx assemble](https://user-images.githubusercontent.com/79617315/214770910-e75810b1-99d9-46f0-90db-68dec6dbb903.jpg)|
 | MX assemble with switch plate and oled instruction |
 
-
+## Credits
+Thanks for bek_jerm for pointing on knob build guide issue.
 
