@@ -86,8 +86,13 @@ If your configuration allows you to build two encoders (both flat wheel and ec11
 |:--:|
 | Join if your config allows for two encoders|
 
+#### EC11 Knob and Flat Wheel with Oled and Haptic Bzzz
+All enabled by expanding IO for second encoder. 
+|![image](https://user-images.githubusercontent.com/79617315/218615202-2645ab4c-552c-4dfd-89b9-0c60691b9b1d.png)|
+|:--:|
+| Join either one of the GND, top or bottom; the another two needs to be handwired |
 
-### OLED and haptic bzzz
+### OLED and Haptic Bzzz
 ~~Choose only OLED or Haptic Bzzz. You are allowed to bridge one of them only because they shared the same pins.~~
 OLED and Haptic Bzzz are both supported as long as your firmware can fit in. 
 |![image](https://user-images.githubusercontent.com/79617315/214061223-f66d9b0a-8950-46b2-9f59-72110a27ecd7.png)|
