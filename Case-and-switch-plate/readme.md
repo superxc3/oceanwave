@@ -1,6 +1,7 @@
 # Case and Switch Plate
 
-## 3D case
+## 3D case for plateless build 
+This is suitable for low profile choc version without any switch plate, download [here](https://github.com/superxc3/oceanwave/blob/main/Case-and-switch-plate/Flat%20oceanwave2%20only%20-%20final%20touch.stl). 
 
 ![image](https://user-images.githubusercontent.com/79617315/214296324-b2e73aab-3d20-46b0-9d42-be0d88542163.png)
 
