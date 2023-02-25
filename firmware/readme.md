@@ -9,7 +9,7 @@ For pre-assembled and pre-flashed board, please download [VIAL](https://get.vial
 
 ## Wired QMK VIAL
 - For usb-c promicro using caterina, copy xcmkb/oceanwave folder, make using `qmk compile -kb xcmkb/oceanwave -km vial`
-- For rp2040 promicro, copy [oceanwave](https://drive.google.com/drive/folders/15KPRZ52J217cfi-xYsaPOL3EPukIM2lr?usp=sharing) folder to your qmk directory, make using `qmk compile -kb oceanwave -km vialoh2e`
+- For rp2040 promicro, copy [oceanwave](https://drive.google.com/drive/folders/15KPRZ52J217cfi-xYsaPOL3EPukIM2lr?usp=sharing) folder to your qmk directory, make using `qmk compile -kb oceanwave -km vialoh2e`. Default uf2 which enabled all features download from [here](https://drive.google.com/file/d/1fGqhYeTPkiZEdB_yfewdT_9bDBihB43H/view?usp=share_link). 
 
 ### Configuration on Sparkfun RP2040 promicro
 - Haptic vibration refers to [DRV2605L waveform library](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_haptic_feedback.md#drv2605l-waveform-library); layers and tab key are added in the firmware, the rest just follow the template set in `haptic.c`.
