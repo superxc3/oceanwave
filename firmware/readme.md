@@ -9,7 +9,7 @@ For pre-assembled and pre-flashed board, please download [VIAL](https://get.vial
 
 
 ## Wired QMK VIAL
-- For usb-c promicro using caterina, make using `qmk compile -kb xcmkb/oceanwave -km vial`
-- For rp2040 promicro, make using `qmk compile -kb xcmkb/oceanwave/rp2040 -km vial`
+- For usb-c promicro using caterina, copy xcmkb/oceanwave folder, make using `qmk compile -kb xcmkb/oceanwave -km vial`
+- For rp2040 promicro, copy oceanwave folder to your qmk directory, make using `qmk compile -kb oceanwave -km vial`
 
 ## Wireless ZMK
