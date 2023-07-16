@@ -1,9 +1,7 @@
 # Oceanwave
+![image](https://github.com/superxc3/oceanwave/assets/79617315/729e2200-d576-45fd-96e2-89ffed2d7cc0)
 
 Oceanwave is an ergonomic unibody keyboard with 3x6 column staggered keys and 3 thumb keys designed by XCMKB. Oceanwave was inspired by [Reviung41](https://github.com/gtips/reviung/tree/master/reviung41) and [Corne](https://github.com/foostan/crkbd) additional thumb key, splayed [Architeuthis Dux](https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux) with mx spacing. 
-
-![image](https://user-images.githubusercontent.com/79617315/212666136-0e20f166-bfc0-45e7-9e0f-af757469d892.png)
-
 
 ## Features
 1. Hotswap for MX and Low Profile Choc (v1)
@@ -55,8 +53,4 @@ Haptic Bzzz can always be added. Dang for the socketed haptic bzzz as well.
 ![image](https://user-images.githubusercontent.com/79617315/212666580-54440dc1-3514-4363-8811-5bc37b416794.png)
 
 
-
-
-
-## Todo
-- QWIIC for Sparkfun rp2040 expansion
+![image](https://user-images.githubusercontent.com/79617315/212666136-0e20f166-bfc0-45e7-9e0f-af757469d892.png)
